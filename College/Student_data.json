@@ -1,0 +1,29 @@
+[
+    {
+        "model": "CSEbranch.Students",
+        "pk": 1,
+        "fields": {
+            "name": "Jane Austen",
+            "age": 27,
+            "student_id": 1234
+        }
+    },
+    {
+        "model": "CSEbranch.Students",
+        "pk": 2,
+        "fields": {
+            "name": "Stendhal",
+            "age": 24,
+            "student_id": 12345
+        }
+    },
+    {
+        "model": "CSEbranch.Students",
+        "pk": 3,
+        "fields": {
+            "name": "Balzac",
+            "age": 26,
+            "student_id": 1236
+        }
+    }
+]
